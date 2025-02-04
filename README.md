@@ -5,8 +5,7 @@ Tools Used: Python and Power BI
 Dataset : Kaggle.com
 
 Description:
-
-         The Project is about analyzing the dataset which is discribing about the various Tourism Destinations across India with their Rating and the long
+          The Project is about analyzing the dataset which is discribing about the various Tourism Destinations across India with their Rating and the long
 discription.So the task is to analyze and visualize the report in PowerBi.The dataset had less data itself such as city name, long discription, Rating and their 
 best time to visit.
          The Dataset has been imported to python pandas for data cleaning and data manipulation.Using df.info() the information about the dataset has been read.
